@@ -2,9 +2,8 @@
 
 ## Your Trainer
 
-* Rainer Sawitzki
+* Rainer Sawitzki, Munich, Germany
 * training@rainer-sawitzki.de
-* lives in Munich, Germany
 
 ## Training Environment
 
