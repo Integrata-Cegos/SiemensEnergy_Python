@@ -5,7 +5,7 @@
 * Rainer Sawitzki
 * training@rainer-sawitzki.de
 * lives in Munich, Germany
-* 
+
 ## Training Environment
 
 * https://h2908727.stratoserver.net:9443/
@@ -15,3 +15,4 @@
 ## Digital Flipchart
 
 * the flipchart is available as a Google document
+* https://docs.google.com/presentation/d/1YP552M1rT-qsrKZuMD4pgXk12vF-gs3gGG7RmFRwy_s/edit?usp=sharing
