@@ -15,3 +15,4 @@
 ## Digital Flipchart
 
 * the flipchart is available as a Google document
+* https://docs.google.com/presentation/d/1ip09InNWv0zyhvBJCDsY4oy883RF7Vd7ATYWq-s6n5M/edit?usp=sharing
