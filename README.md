@@ -1,4 +1,4 @@
-# SiemensEnergy_Python_DS1
+# SiemensEnergy_Python
 
 ## Your Trainer
 
