@@ -1,4 +1,4 @@
-# SiemensEnergy_Python_DS1
+# SiemensEnergy_Python_DS2
 
 ## Your Trainer
 
@@ -13,5 +13,5 @@
 
 ## Digital Flipchart
 
-* the flipchart is available as a Google document
-* https://docs.google.com/presentation/d/1YP552M1rT-qsrKZuMD4pgXk12vF-gs3gGG7RmFRwy_s/edit?usp=sharing
+* [the flipchart is available as a Google document](https://docs.google.com/presentation/d/16bb-lnPL4N7dWfc-WhfsuApz2XoZzYEYRr4jqyqJ4y8/edit?usp=sharing)
+
