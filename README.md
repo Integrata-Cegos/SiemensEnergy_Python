@@ -1,4 +1,4 @@
-# SiemensEnergy_Python
+# SiemensEnergy_Python Pandas and Seaborn
 
 ## Your Trainer
 
@@ -14,4 +14,4 @@
 
 ## Digital Flipchart
 
-* the flipchart is available as a Google document
+* [the flipchart is available as a Google document](https://docs.google.com/presentation/d/1mkS4XlqzCZo1ZrfsbUCysAFrJmshMwhd4_yNAkASv0c/edit?usp=sharing)
